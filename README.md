@@ -2,7 +2,7 @@
 <h3 align="center"> Front-end Developer and a Stock Market Trader</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/kunalprajapati_" target="blank"><img src="https://img.shields.io/twitter/follow/onkarojha4?logo=twitter&style=for-the-badge" alt="KunalPrajapati" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kunalprajapati_" target="blank"><img src="https://img.shields.io/twitter/follow/kunalprajapati_?logo=twitter&style=for-the-badge" alt="KunalPrajapati" /></a> </p>
 
 - 🔭 I’m currently learning [Full Stack Development](https://kunalsportfoliosite.netlify.app/)
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kunalprajapati_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalprajapati_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kunal-prajapati01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkar-ojha-904a85204" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunal-prajapati01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-prajapati01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
