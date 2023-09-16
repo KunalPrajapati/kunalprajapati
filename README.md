@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kunalprajpati@gmail.com**
 
-- 📄 Know about my experiences [https://kunalsportfoliosite.netlify.app/](https://kunalsportfoliosite.netlify.app/)
+- 📄 Know about my experiences [https://kunalprajapati.me/](https://kunalprajapati.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
