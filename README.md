@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/kunalprajapati_" target="blank"><img src="https://img.shields.io/twitter/follow/kunalprajapati_?logo=twitter&style=for-the-badge" alt="KunalPrajapati" /></a> </p>
 
-- 🔭 I’m currently learning [Full Stack Development](https://kunalsportfoliosite.netlify.app/)
+- 🔭 I’m currently working as [React Native Developer]
 
 - 👨‍💻 All of my projects are available at [https://github.com/KunalPrajapati?tab=repositories](https://github.com/KunalPrajapati?tab=repositories)
 
